@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="JSP_MySQL_CRUD:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/JSP_MySQL_CRUD_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="JSP_MySQL_CRUD/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="JSP_MySQL_CRUD" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="$USER_HOME$/Downloads/javax.servlet.jsp.jstl-api-1.2.1.jar/javax.servlet.jsp.jstl-api-1.2.1.jar" />
+          <element id="file-copy" path="$USER_HOME$/Downloads/mysql-connector-java-5.1.46/mysql-connector-java-5.1.46/mysql-connector-java-5.1.46-bin.jar" />
+          <element id="file-copy" path="$USER_HOME$/Downloads/jar_files/javax.servlet.jsp.jstl-1.2.4.jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
